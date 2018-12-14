@@ -51,6 +51,9 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Rails security checklist](https://github.com/eliotsykes/rails-security-checklist) - 🔑 Community-driven Rails Security Checklist.
 - [Attacking Ruby on Rails Applications](http://www.phrack.org/issues/69/12.html#article) - Phrack article by [joernchen](https://twitter.com/joernchen) on finding security vulnerabilities in Rails applications.
 
+## Newsletters
+- [Security for Developers](https://www.getrevue.co/profile/devsecops) - Newsletter catering towards developers and covering many languages. 
+
 # Other
 
 ## Reporting Bugs
