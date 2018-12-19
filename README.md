@@ -20,6 +20,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 - [hawkeye](https://github.com/hawkeyesec/scanner-cli) - Multi purpose security/vulnerability/risk scanning tool supporting Ruby, Node.js, Python, PHP and Java.
 - [Salus](https://github.com/coinbase/salus) - Multi purpose security scanning tool supporting Ruby, Node, Python and Go.
+- [GuardRails](https://www.guardrails.io) - A GitHub App that gives you instant security feedback in your Pull Requests.
 
 ## Static Code Analysis
 
