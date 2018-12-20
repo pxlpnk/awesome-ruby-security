@@ -7,6 +7,8 @@ A curated list of awesome Ruby Security related resources.
 
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
+Supported by: [GuardRails.io](https://github.com/apps/guardrails)
+
 </div>
 <br/>
 
