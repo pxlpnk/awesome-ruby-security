@@ -52,9 +52,8 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Securing Ruby and Rails Apps](https://www.occamslabs.com/blog/securing-your-ruby-and-rails-codebase) - Applying static code analysis and dependency checking in your CI/CD pipeline.
 - [OWASP Ruby on Rails Cheatsheet](https://www.owasp.org/index.php/Ruby_on_Rails_Cheatsheet) - This Cheatsheet intends to provide quick basic Ruby on Rails security tips for developers. It complements, augments or emphasizes points brought up in the rails security guide from [rails core](https://guides.rubyonrails.org/security.html).
 - [Rails security checklist](https://github.com/eliotsykes/rails-security-checklist) - 🔑 Community-driven Rails Security Checklist.
-- [Zen Rails Security Checklist](https://github.com/brunofacca/zen-rails-security-checklist#memcached-security) - A well-documented Rails security checklist.
 - [Attacking Ruby on Rails Applications](http://www.phrack.org/issues/69/12.html#article) - Phrack article by [joernchen](https://twitter.com/joernchen) on finding security vulnerabilities in Rails applications.
-
+- [Zen Rails Security Checklist](https://github.com/brunofacca/zen-rails-security-checklist#memcached-security) - A well-documented Rails security checklist.
 ## Newsletters
 - [Security for Developers](https://www.getrevue.co/profile/devsecops) - Newsletter catering towards developers and covering many languages.
 
