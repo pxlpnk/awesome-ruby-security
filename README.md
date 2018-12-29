@@ -14,12 +14,15 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Web Framework Hardening
 
-- [secure-headers](https://github.com/twitter/secure_headers) - Manages application of security headers with many safe defaults
+- [secure-headers](https://github.com/twitter/secure_headers) - Manages application of security headers with many safe defaults.
+- [Rack::Attack](https://github.com/kickstarter/rack-attack) - Middleware for blocking and throttling requests.
 
 ## Multi tools
 
 - [hawkeye](https://github.com/hawkeyesec/scanner-cli) - Multi purpose security/vulnerability/risk scanning tool supporting Ruby, Node.js, Python, PHP and Java.
 - [Salus](https://github.com/coinbase/salus) - Multi purpose security scanning tool supporting Ruby, Node, Python and Go.
+- [Snyk](https://snyk.io) - Continuously and automatically finds & fixes vulnerabilities for Ruby and other languages.
+
 
 ## Static Code Analysis
 
@@ -49,10 +52,11 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Securing Ruby and Rails Apps](https://www.occamslabs.com/blog/securing-your-ruby-and-rails-codebase) - Applying static code analysis and dependency checking in your CI/CD pipeline.
 - [OWASP Ruby on Rails Cheatsheet](https://www.owasp.org/index.php/Ruby_on_Rails_Cheatsheet) - This Cheatsheet intends to provide quick basic Ruby on Rails security tips for developers. It complements, augments or emphasizes points brought up in the rails security guide from [rails core](https://guides.rubyonrails.org/security.html).
 - [Rails security checklist](https://github.com/eliotsykes/rails-security-checklist) - 🔑 Community-driven Rails Security Checklist.
+- [Zen Rails Security Checklist](https://github.com/brunofacca/zen-rails-security-checklist#memcached-security) - A well-documented Rails security checklist.
 - [Attacking Ruby on Rails Applications](http://www.phrack.org/issues/69/12.html#article) - Phrack article by [joernchen](https://twitter.com/joernchen) on finding security vulnerabilities in Rails applications.
 
 ## Newsletters
-- [Security for Developers](https://www.getrevue.co/profile/devsecops) - Newsletter catering towards developers and covering many languages. 
+- [Security for Developers](https://www.getrevue.co/profile/devsecops) - Newsletter catering towards developers and covering many languages.
 
 # Other
 
