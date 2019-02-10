@@ -56,6 +56,7 @@ Supported by: [GuardRails.io](https://github.com/apps/guardrails)
 - [Rails security checklist](https://github.com/eliotsykes/rails-security-checklist) - 🔑 Community-driven Rails Security Checklist.
 - [Attacking Ruby on Rails Applications](http://www.phrack.org/issues/69/12.html#article) - Phrack article by [joernchen](https://twitter.com/joernchen) on finding security vulnerabilities in Rails applications.
 - [Zen Rails Security Checklist](https://github.com/brunofacca/zen-rails-security-checklist#memcached-security) - A well-documented Rails security checklist.
+- [Rails security best practices](https://github.com/ankane/secure_rails) - A good overview of usefull things to look out for when working with Rails.
 
 ## Newsletters
 - [Security for Developers](https://www.getrevue.co/profile/devsecops) - Newsletter catering towards developers and covering many languages. 
