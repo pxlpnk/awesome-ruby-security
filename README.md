@@ -10,6 +10,12 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 </div>
 <br/>
 
+# Contents
+- [Tools](#tools)
+- [Educational](#educational)
+- [Other](#other)
+- [Contributing](#contributing)
+
 # Tools
 
 ## Web Framework Hardening
