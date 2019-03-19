@@ -12,6 +12,12 @@ Supported by: [GuardRails.io](https://github.com/apps/guardrails)
 </div>
 <br/>
 
+# Contents
+- [Tools](#tools)
+- [Educational](#educational)
+- [Other](#other)
+- [Contributing](#contributing)
+
 # Tools
 
 ## Web Framework Hardening
