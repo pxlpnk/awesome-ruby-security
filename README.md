@@ -44,6 +44,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 - [bundler-audit](https://rubygems.org/gems/bundler-audit) - Patch-level verification for Ruby apps.
 - [ruby-advisory-db](https://github.com/rubysec/ruby-advisory-db) - Open source database of security advisories that are relevant to Ruby libraries.
+- [GemScanner](https://github.com/Splint3r7/GemScanner) - GemScanner identifies depreciated versions of gems in your ruby on rails project.
 
 # Educational
 
