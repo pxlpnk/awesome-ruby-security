@@ -39,6 +39,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [DevSkim](https://github.com/Microsoft/DevSkim) - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities. Also has support for CLI so it can be integrated into CI/CD pipeline.
 - [ban-sensitive-files](https://github.com/bahmutov/ban-sensitive-files) - Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).
 - [rails_best_practices](https://github.com/flyerhzm/rails_best_practices) - A static code analyzer for Ruby on Rails applications that finds - among other things - common patterns that might lead to security vulnerabilities.
+- [Rails Application Routes Parser](https://gist.github.com/Splint3r7/198a3f8f19f20c28fff44993427012c3) - A script that print out ruby on rails application routes/URLs. 
 
 ## Vulnerabilities and Security Advisories
 
@@ -62,6 +63,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Attacking Ruby on Rails Applications](http://www.phrack.org/issues/69/12.html#article) - Phrack article by [joernchen](https://twitter.com/joernchen) on finding security vulnerabilities in Rails applications.
 - [Zen Rails Security Checklist](https://github.com/brunofacca/zen-rails-security-checklist#memcached-security) - A well-documented Rails security checklist.
 - [Rails security best practices](https://github.com/ankane/secure_rails) - A good overview of usefull things to look out for when working with Rails.
+- [Securing Rails Application from developers perspective](http://hassankhanyusufzai.com/securing-rails-application/) - A detailed blog on Ruby on Rails security from developers perspective that contains OWASP Top & other application issues with fixes /  recommendation and fix codes.
 
 ## Newsletters
 - [Security for Developers](https://www.getrevue.co/profile/devsecops) - Newsletter catering towards developers and covering many languages.
