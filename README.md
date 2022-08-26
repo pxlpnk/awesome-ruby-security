@@ -65,6 +65,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Rails security best practices](https://github.com/ankane/secure_rails) - A good overview of usefull things to look out for when working with Rails.
 - [Securing Rails Application from developers perspective](http://hassankhanyusufzai.com/securing-rails-application/) - A detailed blog on Ruby on Rails security from developers perspective that contains OWASP Top & other application issues with fixes /  recommendation and fix codes.
 - [Rubyfu](https://rubyfu.net/) - Offensive security book for rubyist ([Source](https://github.com/rubyfu/RubyFu))
+- [Ruby gem installations can expose you to lockfile injection attacks](https://snyk.io/blog/ruby-gem-installation-lockfile-injection-attacks) - security blindspots of lockfile injection in the Ruby ecosystem
 
 ## Newsletters
 - [Security for Developers](https://www.getrevue.co/profile/devsecops) - Newsletter catering towards developers and covering many languages.
