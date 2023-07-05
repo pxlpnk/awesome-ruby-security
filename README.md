@@ -39,7 +39,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [DevSkim](https://github.com/Microsoft/DevSkim) - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities. Also has support for CLI so it can be integrated into CI/CD pipeline.
 - [ban-sensitive-files](https://github.com/bahmutov/ban-sensitive-files) - Checks filenames to be committed against a library of filename rules to prevent storing sensitive files in Git. Checks some files for sensitive contents (for example authToken inside .npmrc file).
 - [rails_best_practices](https://github.com/flyerhzm/rails_best_practices) - A static code analyzer for Ruby on Rails applications that finds - among other things - common patterns that might lead to security vulnerabilities.
-- [Rails Application Routes Parser](https://gist.github.com/Splint3r7/198a3f8f19f20c28fff44993427012c3) - A script that print out ruby on rails application routes/URLs. 
+- [Rails Application Routes Parser](https://gist.github.com/Splint3r7/198a3f8f19f20c28fff44993427012c3) - A script that print out ruby on rails application routes/URLs.
+- [Bearer](https://github.com/Bearer/bearer) - A code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
+
+
 
 ## Vulnerabilities and Security Advisories
 
