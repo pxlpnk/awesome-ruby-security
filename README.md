@@ -25,7 +25,6 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Multi tools
 
-- [hawkeye](https://github.com/hawkeyesec/scanner-cli) - Multi purpose security/vulnerability/risk scanning tool supporting Ruby, Node.js, Python, PHP and Java.
 - [Ronin](https://github.com/ronin-rb/ronin) - Ronin is a free and Open Source Ruby toolkit for security research and development.
 - [Salus](https://github.com/coinbase/salus) - Multi purpose security scanning tool supporting Ruby, Node, Python and Go.
 - [Snyk](https://snyk.io) - Continuously and automatically finds & fixes vulnerabilities for Ruby and other languages.
